@@ -8,16 +8,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```java
+if(1==1)
+  System.Out.Println("Hello World");
+```
+
 ```markdown
 Syntax highlighted code block
 g buefvwiubvewuievhw
 # Header 1
 ## Header 2
 ### Header 3
-```java
-if(1==1)
-  System.Out.Println("Hello World");
-```
+
 - Bulleted
 - List
 
